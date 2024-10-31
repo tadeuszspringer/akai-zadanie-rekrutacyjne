@@ -6,7 +6,6 @@
 #include <vector>
 #include <unordered_map>
 #include <fstream>
-#include <locale>
 #include <map>
 #include <algorithm>
 
