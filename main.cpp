@@ -154,7 +154,6 @@ int main() {
         }
     }
 
-    kategorie.close();
     zbior_wejsciowy.close();
     return 0;
 }
