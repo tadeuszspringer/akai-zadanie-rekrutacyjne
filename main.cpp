@@ -104,7 +104,7 @@ int main() {
                     pom2.masa = stod(pom)/(28.34952981);
                 } else {
                     replace(pom.begin(), pom.end(), ',', '.');
-                    pom2.masa = stod(pom);
+                    pom2.masa = (stod(pom) * 0.2) /(28.34952981);
                 }
                 ++a;
                 break;
